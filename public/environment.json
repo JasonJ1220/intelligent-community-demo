@@ -1,0 +1,9 @@
+{
+    "loggerLevel": 1,
+    "viewService": {
+        "describe1": "视图服务接口地址",
+        "direct": "http://10.206.161.169:8087",
+        "discover": "",
+        "mode": "direct"
+    }
+}

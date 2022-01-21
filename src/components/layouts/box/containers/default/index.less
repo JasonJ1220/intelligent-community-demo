@@ -1,0 +1,16 @@
+.default-container-wrapper {
+    // background-color: #003062;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+    & > .container-body-wrapper {
+        flex: auto;
+        position: relative;
+        outline: 1px solid #ccc;
+    }
+
+    &.selected {
+        box-shadow: 0 0 15px 2px rgba(255, 255, 255, 0.4);
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "container": {
+        "name": "default",
+        "config": {
+            "contentConfig": { "composeType": "spread" }
+        },
+        "content": [
+            {
+                "key": "jF5dqzMJZXOhIjghWI5cz",
+                "blockLayType": "free",
+                "dataGrid": {
+                    "w": 1920,
+                    "h": 80,
+                    "x": 0,
+                    "y": 0,
+                    "i": "jF5dqzMJZXOhIjghWI5cz"
+                },
+                "container": {
+                    "name": "default",
+                    "config": {
+                        "contentConfig": { "composeType": "spread" }
+                    },
+                    "content": [{ "componentName": "IntelliCommunityTitle" }]
+                }
+            },
+            {
+                "key": "l313QaC4mic92RMkHsmc6",
+                "blockLayType": "free",
+                "dataGrid": {
+                    "w": 480,
+                    "h": 620,
+                    "x": 0,
+                    "y": 80,
+                    "i": "l313QaC4mic92RMkHsmc6"
+                },
+                "entry": {
+                    "overwrite": {
+                        "opacity": 0
+                    },
+                    "process": {
+                        "animation": {
+                            "opacity": 1
+                        }
+                    }
+                },
+                "container": {
+                    "name": "default",
+                    "config": {
+                        "contentConfig": { "composeType": "spread" }
+                    },
+                    "content": [{ "componentName": "IntelliCommunityLeftPagePopulation" }]
+                }
+            },
+            {
+                "key": "v1Fx7yYGjwsCYkH5sTfhd",
+                "blockLayType": "free",
+                "dataGrid": {
+                    "w": 480,
+                    "h": 380,
+                    "x": 0,
+                    "y": 700,
+                    "i": "v1Fx7yYGjwsCYkH5sTfhd"
+                },
+                "entry": {
+                    "overwrite": {
+                        "opacity": 0
+                    },
+                    "process": {
+                        "animation": {
+                            "opacity": 1
+                        }
+                    }
+                },
+                "container": {
+                    "name": "default",
+                    "config": {
+                        "contentConfig": { "composeType": "spread" }
+                    },
+                    "content": [{ "componentName": "IntelliCommunityLeftPageMinorityNationalityRank" }]
+                }
+            },
+            {
+                "key": "QrI3CZEUOtJwPLAkz1Dtq",
+                "blockLayType": "free",
+                "dataGrid": {
+                    "w": 1110,
+                    "h": 1000,
+                    "x": 395,
+                    "y": 80,
+                    "i": "QrI3CZEUOtJwPLAkz1Dtq"
+                },
+                "entry": {
+                    "overwrite": {
+                        "opacity": 0
+                    },
+                    "process": {
+                        "animation": {
+                            "opacity": 1
+                        }
+                    }
+                },
+                "container": {
+                    "name": "default",
+                    "config": {
+                        "contentConfig": { "composeType": "spread" }
+                    },
+                    "content": [{ "componentName": "IntelliCommunityMiddlePage" }]
+                }
+            },
+            {
+                "key": "l2Z29JjWbi72nWS6u-ZNc",
+                "blockLayType": "free",
+                "dataGrid": {
+                    "w": 450,
+                    "h": 300,
+                    "x": 1470,
+                    "y": 80,
+                    "i": "l2Z29JjWbi72nWS6u-ZNc"
+                },
+                "entry": {
+                    "overwrite": {
+                        "opacity": 0
+                    },
+                    "process": {
+                        "animation": {
+                            "opacity": 1
+                        }
+                    }
+                },
+                "container": {
+                    "name": "default",
+                    "config": {
+                        "contentConfig": { "composeType": "spread" }
+                    },
+                    "content": [{ "componentName": "IntelliCommunityRightPageEarlyWarnCount" }]
+                }
+            },
+            {
+                "key": "qkeo7-qBHPCsmg2wqDdYU",
+                "blockLayType": "free",
+                "dataGrid": {
+                    "w": 450,
+                    "h": 230,
+                    "x": 1470,
+                    "y": 380,
+                    "i": "qkeo7-qBHPCsmg2wqDdYU"
+                },
+                "entry": {
+                    "overwrite": {
+                        "opacity": 0
+                    },
+                    "process": {
+                        "animation": {
+                            "opacity": 1
+                        }
+                    }
+                },
+                "container": {
+                    "name": "default",
+                    "config": {
+                        "header": {
+                            "name": "default",
+                            "config": {}
+                        },
+                        "contentConfig": { "composeType": "spread" }
+                    },
+                    "content": [{ "componentName": "IntelliCommunityRightPageHouseType" }]
+                }
+            },
+            {
+                "key": "0SKSOkYLzLKV_oOPcs4kY",
+                "blockLayType": "free",
+                "dataGrid": {
+                    "w": 450,
+                    "h": 470,
+                    "x": 1470,
+                    "y": 610,
+                    "i": "0SKSOkYLzLKV_oOPcs4kY"
+                },
+                "entry": {
+                    "overwrite": {
+                        "opacity": 0
+                    },
+                    "process": {
+                        "animation": {
+                            "opacity": 1
+                        }
+                    }
+                },
+                "container": {
+                    "name": "default",
+                    "config": {
+                        "contentConfig": { "composeType": "spread" }
+                    },
+                    "content": [{ "componentName": "IntelliCommunityRightPageInductionDevice" }]
+                }
+            }
+        ]
+    },
+    "layoutInfo": {
+        "label": "智慧社区",
+        "name": "Y4nMMmxvKdPbGob_Q2Rur",
+        "width": 1920,
+        "height": 1080,
+        "rowHeight": 1,
+        "cols": 1920,
+        "margin": [0, 0],
+        "containerPadding": [0, 0]
+    }
+}
